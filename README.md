@@ -49,6 +49,7 @@ htop            : Resource monitor
 cpu             : Shows CPU information and stats  
 
 
+PRESS RELEASE FOR THE IMAGE FILE !!!
   
  
 
