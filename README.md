@@ -24,6 +24,7 @@ type your password
 <Done>  
 
 Apply : Save all changes and restart networking  
+Retry               : Re-run the last command that failed  
   
  Would you like to restart the first run setup and installation?  
 <Ok>  
@@ -32,6 +33,10 @@ Apply : Save all changes and restart networking
 
 Install            : Go >> Start installation for selected software  
 
+(Sometimes it hangs at reboot at   :   Starting ifup for wlan0...
+         Starting Raise network interfaces..  
+then pull the power plug)
+  
 ### Resize to max SD card:   
 
 on the prompt type:  
