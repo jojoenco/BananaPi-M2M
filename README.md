@@ -8,7 +8,7 @@ Kernal 5.10.0-21-armmp
 User: root  
 PW: dietpi
 
-First connect to WiFi:  
+### First connect to WiFi:  
 
 Network settings --> WiFi : Available  
 Would you like to enable WiFi now?  
@@ -28,11 +28,11 @@ Apply : Save all changes and restart networking
  Would you like to restart the first run setup and installation?  
 <Ok>  
 
-back in DietPi-Software:  
+### back in DietPi-Software:  
 
 Install            : Go >> Start installation for selected software  
 
-Resize to max SD card:   
+### Resize to max SD card:   
 
 on the prompt type:  
 dietpi-drive_manager  
@@ -40,7 +40,7 @@ select ext4 partition
 Resize          : Maximize the available filesystem size  
 reboot  
 
-setup the rest:  
+### setup the rest:  
 on the prompt type:  
 dietpi-launcher : All the DietPi programs in one place  
 dietpi-config   : Feature rich configuration tool for your device  
@@ -49,7 +49,7 @@ htop            : Resource monitor
 cpu             : Shows CPU information and stats  
 
 
-PRESS RELEASE FOR THE IMAGE FILE !!!
+## PRESS RELEASE FOR THE IMAGE FILE !!!
   
  
 
