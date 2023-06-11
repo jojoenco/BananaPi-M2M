@@ -1,9 +1,10 @@
 # BananaPi-M2M
 ## Bananapi-M2M dietpi with WiFi (NO BL-TOOTH !)
 
-DietPi v8.16.2 build with debian Bullseye  
-Debian 5.10.162-1  
-Kernal 5.10.0-21-armmp  
+
+DietPi v8.18.2 build with debian Bullseye  
+Debian 5.10.179-1  
+Kernal 5.10.0-23-armmp-lpae  
 
 User: root  
 PW: dietpi
