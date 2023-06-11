@@ -37,7 +37,7 @@ Retry               : Re-run the last command that failed
 
 Install            : Go >> Start installation for selected software  
 
-(Sometimes it hangs at reboot at   :   Starting ifup for wlan0...
+Fixed!!(Sometimes it hangs at reboot at   :   Starting ifup for wlan0...
          Starting Raise network interfaces..  
 then pull the power plug) Fixed!!!!!! (won't hang anymore)
   
