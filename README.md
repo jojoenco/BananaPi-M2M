@@ -9,7 +9,7 @@ Kernal 5.10.0-23-armmp-lpae
 User: root  
 PW: dietpi
 
-(WiFi is loaded after boot becouse if you load is in the start process it handgs) 
+(WiFi is loaded after boot because if you load is in the start process it handgs) 
 
 ### First connect to WiFi:  
 
