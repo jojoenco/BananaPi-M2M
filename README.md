@@ -13,7 +13,8 @@ PW: dietpi
 Network settings --> WiFi : Available  
 Would you like to enable WiFi now?  
 <Ok>  
-
+Apply : Save all changes and restart networking  
+  
 Scan : Scan and configure SSID  
 
 0: [Unused] Select to configure  
