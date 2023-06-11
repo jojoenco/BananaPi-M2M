@@ -9,6 +9,8 @@ Kernal 5.10.0-23-armmp-lpae
 User: root  
 PW: dietpi
 
+(WiFi is loaded after boot becouse if you load is in the start process it handgs) 
+
 ### First connect to WiFi:  
 
 Network settings --> WiFi : Available  
@@ -37,7 +39,7 @@ Install            : Go >> Start installation for selected software
 
 (Sometimes it hangs at reboot at   :   Starting ifup for wlan0...
          Starting Raise network interfaces..  
-then pull the power plug)
+then pull the power plug) Fixed!!!!!! (won't hang anymore)
   
 ### Resize to max SD card:   
 
